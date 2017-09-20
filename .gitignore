@@ -13,3 +13,7 @@ Build
 
 # Compiled Object files
 *.slo
+
+# Xcode
+**/xcuserdata
+**/*.xcworkspacedata
