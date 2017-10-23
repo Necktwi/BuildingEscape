@@ -1,15 +1,18 @@
 # Unreal Generated Files
-Build/
-Binaries/
-Content/StarterContent/
-DerivedDataCache/
-Intermediate/
-Saved/
-Build
+*/Build/
+*/Binaries/
+*/Content/StarterContent/Textures
+*/Content/StarterContent/HDRI
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
 
 # VS Generated Files
 .vs/
 *.VC.db
+*.suo
+*.VC.opendb
+*.sln
 
 # Compiled Object files
 *.slo

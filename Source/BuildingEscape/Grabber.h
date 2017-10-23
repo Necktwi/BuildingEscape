@@ -31,6 +31,10 @@ public:
 
 	FHitResult GetFirstPhysicsBodyInReach() const;
 
+	FVector GetReachLineEnd() const;
+
+	FVector GetReachLineStart() const;
+
 private:
 	// How far ahead of the player can we reach in cm
 	float Reach = 100.f;
