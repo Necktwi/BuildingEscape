@@ -1,11 +1,11 @@
 # Unreal Generated Files
 */Build/
 */Binaries/
-*/Content/StarterContent/Textures
-*/Content/StarterContent/HDRI
 */DerivedDataCache/
 */Intermediate/
 */Saved/
+*/Content/StarterContent/Textures
+*/Content/StarterContent/HDRI
 
 # VS Generated Files
 .vs/
@@ -13,9 +13,6 @@
 *.suo
 *.VC.opendb
 *.sln
-
-# Compiled Object files
-*.slo
 
 # Xcode
 **/xcuserdata
